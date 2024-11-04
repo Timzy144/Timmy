@@ -30,12 +30,4 @@ def Books():
             print(f"{name} you signed_out: ", check_in.strftime("%h-%m-%d-%y"))
         else:
          print("invalid selection")
-
-               
-
-
-  
-
-
-
 Books()
